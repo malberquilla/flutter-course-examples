@@ -2,17 +2,17 @@
     "appName": "Components",
     "routes": [
         {
-            "ruote": "alert",
+            "route": "alert",
             "icon": "add_alert",
             "text": "Alerts"
         },
         {
-            "ruote": "avatar",
+            "route": "avatar",
             "icon": "accessibility",
             "text": "Avatars"
         },
         {
-            "ruote": "card",
+            "route": "card",
             "icon": "folder_open",
             "text": "Cards"
         }
