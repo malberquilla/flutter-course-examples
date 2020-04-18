@@ -28,7 +28,7 @@ class _AnimatedContainerPageState extends State<AnimatedContainerPage> {
           decoration:
               BoxDecoration(borderRadius: _borderRadiusGeometry, color: _color),
           duration: Duration(milliseconds: 500),
-          curve: Curves.elasticInOut,
+          curve: Curves.bounceInOut,
         ),
       ),
       floatingActionButton: FloatingActionButton(
